@@ -1,0 +1,23 @@
+{
+  "name": "alfred_yd_translate",
+  "version": "1.0.0",
+  "description": "Alfred workflow for youdao translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shifuture/yd_translate.git"
+  },
+  "type": "module",
+  "author": "kenneth",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/shifuture/yd_translate/issues"
+  },
+  "homepage": "https://github.com/shifuture/yd_translate#readme",
+  "dependencies": {
+    "alfy": "^2.0.0"
+  }
+}
